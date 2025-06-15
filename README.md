@@ -4,10 +4,19 @@
 
 ## About Me
 
-I LOVE:
+### RESUME:
+- Languages: HTML, CSS, JavaScript, Python
+- Frameworks: Vue.js, Node.js, Django
+- Databases: MySQL, Supabase(PostgreSQL)
+- Tools: Git
+- Education: Polytechnic College of Novgorod State University — Development of web and multimedia applications
+- Year of graduation: 2026
+
+### I LOVE:
 - Coding👨🏻‍💻
 - Playing Video Games🎮
 - Shredding on Guitar🎸
+- AVENGED SEVENFOLD𓆩💀𓆪
 
 ---
 
