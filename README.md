@@ -2,9 +2,7 @@
 
 ---
 
-## About Me
-
-## RESUME:
+## About Me:
 - Languages: HTML, CSS, JavaScript, Python
 - Frameworks: Vue.js, Node.js, Django
 - Databases: MySQL, Supabase(PostgreSQL)
