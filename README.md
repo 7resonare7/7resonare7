@@ -4,10 +4,10 @@
 
 ## About Me
 
-I LOVE
+I LOVE:
 - Coding👨🏻‍💻
 - Playing Video Games🎮
-- Shred Guitar🎸
+- Shredding on Guitar🎸
 
 ---
 
