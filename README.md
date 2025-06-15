@@ -15,12 +15,12 @@ I LOVE:
 
 ### Moonveil - Online Video Games Store
 - Front-end: Basic HTML and CSS
-- Back-end: Python(Django) + Supabase
-- Figma(there was a redesign): [Click](https://www.figma.com/design/jsHErBKslTCoejIwFXEh0E/Moonveila?node-id=0-1&t=znSmg3SmvR4tKqnD-1)
+- Back-end: Python (Django) + Supabase
+- Figma (there was a redesign): [Click](https://www.figma.com/design/jsHErBKslTCoejIwFXEh0E/Moonveila?node-id=0-1&t=znSmg3SmvR4tKqnD-1)
 
 🔗 [GitHub Repository](https://github.com/7resonare7/Moonveil)
 
-### Project Dignitas(Temporary) - Online Guitars Store
+### Project Dignitas (Temporary) - Online Guitars Store
 - Front-end: Basic HTML and CSS
 - Back-end: None
 - Figma: [Click](https://www.figma.com/design/lYOLRnpmsGcjrQEicp9lHN/Project-Dignitas?t=znSmg3SmvR4tKqnD-1)
@@ -39,9 +39,9 @@ I LOVE:
 ## 🎨 My Figma Projects
 
 - Project 1: [ELEGANCE](https://www.figma.com/design/18Jds5PQ6KkWMLWO9AAk76/ELEGANCE?t=znSmg3SmvR4tKqnD-1) - Small landing page for a clothing store
-- Project 2: [SHREDSTER](https://www.figma.com/design/0EXMy7f64EWOcjnDCRcYrp/SHREDSTER?node-id=1-3&t=z8vppwhrvyexDECo-1) - A short introduction to the guitar sales project(There is also [FigJam](https://www.figma.com/board/yBEmFOwFBkzveb1t2up5xC/SHREDSTER?node-id=0-1&t=t3mDOiS93xJWjrjo-1))
+- Project 2: [SHREDSTER](https://www.figma.com/design/0EXMy7f64EWOcjnDCRcYrp/SHREDSTER?node-id=1-3&t=z8vppwhrvyexDECo-1) - A short introduction to the guitar sales project (There is also [FigJam](https://www.figma.com/board/yBEmFOwFBkzveb1t2up5xC/SHREDSTER?node-id=0-1&t=t3mDOiS93xJWjrjo-1))
 - Project 3: [Gorilla Music](https://www.figma.com/design/VPKkYbejxu2EoQezm4rTcw/Gorilla-Music?node-id=12-2&t=VhoJlUx1MdOixsD5-1) - Multi-page music listening website layout
-- Project 4: [Avenged Sevenfold(Fan Page)](https://www.figma.com/design/ZtkljsI7VaZGSO7lgIuR5p/A7X---Fan-Page?t=7mj9ndkMGZ8xUpXU-1) - A small landing page with information about each group member(outdated layout)
+- Project 4: [Avenged Sevenfold (Fan Page)](https://www.figma.com/design/ZtkljsI7VaZGSO7lgIuR5p/A7X---Fan-Page?t=7mj9ndkMGZ8xUpXU-1) - A small landing page with information about each group member(outdated layout)
 
 *You can view detailed interactions, component libraries, and style guides via these Figma links.*
 
