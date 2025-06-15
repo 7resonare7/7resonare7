@@ -27,7 +27,7 @@
 
 🔗 [GitHub Repository](https://github.com/7resonare7/Moonveil)
 
-### Project Dignitas (Temporary) - Online Guitars Store
+### Project Dignitas (Temporary name) - Online Guitars Store
 - Front-end: Basic HTML and CSS
 - Back-end: None
 - Figma: [Click](https://www.figma.com/design/lYOLRnpmsGcjrQEicp9lHN/Project-Dignitas?t=znSmg3SmvR4tKqnD-1)
