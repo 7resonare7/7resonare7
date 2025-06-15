@@ -52,7 +52,3 @@ I LOVE
 **Coming Soon**
 
 ---
-
-<p align="center">
-  <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/518ad102-c315-4c7b-8cde-44b2aba8b02a.png" alt="Thank You for Visiting My Profile - stylized green banner" />
-</p>
