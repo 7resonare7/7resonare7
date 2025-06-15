@@ -52,8 +52,6 @@
 - Project 3: [Gorilla Music](https://www.figma.com/design/VPKkYbejxu2EoQezm4rTcw/Gorilla-Music?node-id=12-2&t=VhoJlUx1MdOixsD5-1) - Multi-page music listening website layout
 - Project 4: [Avenged Sevenfold Fan Page](https://www.figma.com/design/ZtkljsI7VaZGSO7lgIuR5p/A7X---Fan-Page?t=7mj9ndkMGZ8xUpXU-1) - A small landing page with information about each group member(outdated layout)
 
-*You can view detailed interactions, component libraries, and style guides via these Figma links.*
-
 ---
 
 ### Additional Projects
@@ -63,5 +61,5 @@
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdlaTBrbGs3c3JlcHJrbHRxY2FiYjI5bWh1bXRqMW00amE0MDE4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q4lfmuy7uhIe40fuLz/giphy.gif" alt="Animated celebration with confetti and colorful effects" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdlaTBrbGs3c3JlcHJrbHRxY2FiYjI5bWh1bXRqMW00amE0MDE4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q4lfmuy7uhIe40fuLz/giphy.gif" alt="Dancing Shadows" />
 </p>
